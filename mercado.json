@@ -1,0 +1,112 @@
+{
+ "exemplo": true,
+ "fonte": "Dados de exemplo (fictícios)",
+ "atualizado": "2026-10-09T17:30:00-03:00",
+ "atrasoMin": 0,
+ "fundos": [
+  {
+   "ticker": "LGNO11",
+   "nome": "Logística Norte",
+   "segmento": "Galpões logísticos",
+   "preco": 98.4,
+   "fechAnt": 97.6,
+   "vp": 104,
+   "provento": {
+    "valor": 0.74,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "LJPA11",
+   "nome": "Lajes Paulista",
+   "segmento": "Lajes corporativas",
+   "preco": 61.2,
+   "fechAnt": 62.1,
+   "vp": 108,
+   "provento": {
+    "valor": 0.6,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "SHOR11",
+   "nome": "Shopping Orla",
+   "segmento": "Shopping centers",
+   "preco": 95.8,
+   "fechAnt": 95.3,
+   "vp": 92,
+   "provento": {
+    "valor": 0.67,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "HVID11",
+   "nome": "Hospitais Vida",
+   "segmento": "Hospitais",
+   "preco": 110.2,
+   "fechAnt": 110,
+   "vp": 105,
+   "provento": {
+    "valor": 0.74,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "GURB11",
+   "nome": "Galpão Urbano",
+   "segmento": "Logística de última milha",
+   "preco": 70.5,
+   "fechAnt": 69.9,
+   "vp": 72,
+   "provento": {
+    "valor": 0.56,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "PHGR11",
+   "nome": "Papel High Grade",
+   "segmento": "CRIs de alta qualidade",
+   "preco": 100.1,
+   "fechAnt": 100,
+   "vp": 100,
+   "provento": {
+    "valor": 0.88,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "PHYD11",
+   "nome": "Papel High Yield",
+   "segmento": "CRIs de maior risco",
+   "preco": 87.4,
+   "fechAnt": 88,
+   "vp": 100,
+   "provento": {
+    "valor": 1.04,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  },
+  {
+   "ticker": "FMIX11",
+   "nome": "Fundo de Fundos Mix",
+   "segmento": "Carteira de vários FIIs",
+   "preco": 85.3,
+   "fechAnt": 84.9,
+   "vp": 90,
+   "provento": {
+    "valor": 0.66,
+    "dataCom": "2026-09-30",
+    "pagamento": "2026-10-14"
+   }
+  }
+ ]
+}
